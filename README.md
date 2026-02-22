@@ -57,13 +57,13 @@ The system collects member details, calculates the fine based on overdue days, a
 ---
 
 ## 🧾 Example Output
-``FINE RECEIPT
+FINE RECEIPT
 Name of Member: Rahul Sharma
 Book Name : The Great Gatsby
 Due Date : 01/02/2026
 Return Date : 10/02/2026
 Days Overdue : 9
-Total Fine : 65 Rupees``
+Total Fine : 65 Rupees
 
 ---
 
