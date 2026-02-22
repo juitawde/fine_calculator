@@ -16,13 +16,13 @@ The system collects member details, calculates the fine based on overdue days, a
 
 ## 🎯 Features
 
-- Accepts member name and book details
-- Records due date and return date
-- Calculates fine automatically
-- Applies tiered fine structure
-- Displays formatted receipt
-- Uses Object-Oriented Programming concepts
-- Clean and modular code design
+- Accepts member name and book details.
+- Records due date and return date.
+- Calculates fine automatically.
+- Applies tiered fine structure.
+- Displays formatted receipt.
+- Uses Object-Oriented Programming concepts.
+- Clean and modular code design.
 
 ---
 
