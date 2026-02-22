@@ -29,7 +29,8 @@ public:
 
         cout << "Enter return date (DD/MM/YYYY): ";
         cin >> returnDate;
-
+        cin.ignore();
+        
         cout << "Enter Book Name: ";
         getline(cin, bookTitle);
         
